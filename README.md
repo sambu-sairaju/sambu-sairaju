@@ -4,11 +4,11 @@
 
 ✔️ I am a **Software Developer** and **Quant Trading Enthusiast** from India. <br>
 
-✔️ My core interests lie in **Algorithmic Trading**, **System Administration**, and **Web Security**. I love analyzing the **Indian Stock Market** and building automated strategies. <br>
+✔️ My core interests lie in **FullStack Development**, **Backend Developement**, **Quantitative Research**, **Algorithmic Trading Sratagies**, **System Administration**, and **DevOps**. <br>
 
-✔️ I am currently sharpening my skills in **Bug Hunting**, **Backend Development** (Python/FastAPI), and **DevOps** (Docker/VMs). <br>
+✔️ I am currently sharpening my skills in **FullStack**, **Backend Development** (Python/FastAPI), and **DevOps** (Docker/VMs). <br>
 
-✔️ I enjoy solving complex problems, from debugging asynchronous code to exploring startup ideas like **Biogas energy** and **AR/VR solutions**. <br>
+✔️ I enjoy solving complex problems, from debugging asynchronous code to exploring startup ideas. <br>
 
 ✔️ Let's connect and collaborate on tech and finance!
 
