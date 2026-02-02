@@ -4,9 +4,9 @@
 
 ✔️ I am a **Software Developer** and **Quant Trading Enthusiast** from India. <br>
 
-✔️ My core interests lie in **FullStack Development**, **Backend Developement**, **Quantitative Research**, **Algorithmic Trading Sratagies**, **System Administration**, and **DevOps**. <br>
+✔️ My core interests lie in **FullStack Development**, **Quantitative Research**, **Alpha/Quant Sratagies** and **Algorithmic Trading**. <br>
 
-✔️ I am currently sharpening my skills in **FullStack**, **Backend Development** (Python/FastAPI), and **DevOps** (Docker/VMs). <br>
+✔️ I am currently sharpening my skills in **FullStack**, **DSA**, **System Design** and **Trading**. <br>
 
 ✔️ I enjoy solving complex problems, from debugging asynchronous code to exploring startup ideas. <br>
 
@@ -18,10 +18,10 @@
 <a href="https://github.com/sambu-sairaju">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+<a href="https://www.linkedin.com/in/sambu-sairaju/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:sambusairaju@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -43,11 +43,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sambu-sairaju&theme=tokyonight" alt="Sambu's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sambu-sairaju&theme=tokyonight" alt="Sambu's Streak" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sambu-sairaju/count.svg" alt="Visitors">
+  <img src="https://hits.sh/github.com/sambu-sairaju.svg?style=for-the-badge&label=Profile%20Views&color=0891b2&labelColor=1e3a5f" alt="Visitors">
 </p>
