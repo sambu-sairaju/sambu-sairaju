@@ -28,26 +28,6 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambu-sairaju&theme=tokyonight&layout=compact&align=center&width=400" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sambu-sairaju&show_icons=true&theme=tokyonight&count_private=true" alt="Sambu's Github Stats" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sambu-sairaju&theme=tokyonight" alt="Sambu's Streak" />
-</div>
-
----
-
 <p align="center">
   <img src="https://hits.sh/github.com/sambu-sairaju.svg?style=for-the-badge&label=Profile%20Views&color=0891b2&labelColor=1e3a5f" alt="Visitors">
 </p>
