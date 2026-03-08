@@ -2,11 +2,11 @@
 
 🌱 **About Myself**<br>
 
-✔️ I am a **Software Developer** and **Quant Trading Enthusiast** from India. <br>
+✔️ I am a **Software Developer** and **Quant Trader** from India. <br>
 
 ✔️ My core interests lie in **FullStack Development**, **Quantitative Research**, **Alpha/Quant Sratagies** and **Algorithmic Trading**. <br>
 
-✔️ I am currently sharpening my skills in **FullStack**, **DSA**, **System Design** and **Trading**. <br>
+✔️ I am currently sharpening my skills in **DSA**, **FullStack**, **System Design** and **Trading**. <br>
 
 ✔️ I enjoy solving complex problems, from debugging asynchronous code to exploring startup ideas. <br>
 
