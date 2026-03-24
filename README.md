@@ -4,7 +4,7 @@
 
 ✔️ I am a **Software Developer** and **Quant Trader** from India. <br>
 
-✔️ My core interests lie in **FullStack Development**, **Quantitative Research**, **Alpha/Quant Sratagies** and **Algorithmic Trading**. <br>
+✔️ My core interests lie in **FullStack Development**, **Quantitative Research/Trading**. <br>
 
 ✔️ I am currently sharpening my skills in **DSA**, **FullStack**, **System Design** and **Trading**. <br>
 
