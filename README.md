@@ -2,7 +2,7 @@
 
 🌱 **About Myself**<br>
 
-✔️ I am a **Software Developer** and **Quant Trader** from India. <br>
+✔️ I am a **Software Developer** and **Options Trader** from India. <br>
 
 ✔️ My core interests lie in **FullStack Development**, **Quantitative Research/Trading**. <br>
 
